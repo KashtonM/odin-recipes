@@ -1,1 +1,1 @@
-# odin-recipes
+This is my first project! I am going to be creating a webpage that displays different recipes. It might look a little brutalistic.
